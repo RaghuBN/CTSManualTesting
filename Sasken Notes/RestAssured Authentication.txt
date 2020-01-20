@@ -1,0 +1,15 @@
+
+
+http://coop.apps.symfonycasts.com/ 
+   	 
+   	 How to Cratate Application
+    	 How to Generate Access Token Manually
+    	 How to Pass from parameter in RestAssured
+   	 How to generate Access Token through program through 
+    	    API endpoint
+   	 How to use generated access token in program of 
+     	    authorization
+    	 How to write positive and negative test for same
+
+         What is OAuth 1.0 and 2.0 
+ 

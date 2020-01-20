@@ -1,0 +1,10 @@
+
+Robot Frame work is generic test automation framework for Acceptence Testing
+
+Acceptance Test Driven Development
+
+It utilizes th Keywor driven Testing Approch
+
+Provides test libraries implement either with Python or java
+
+No Much Programming is required

@@ -1,0 +1,20 @@
+Visual Studio Code
+https://code.visualstudio.com/docs/?dv=win
+
+dotnet core sdk
+https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-3.0.100-windows-x64-installer
+
+
+Commands : dotnet new console
+           dotnet restore
+           dotnet run
+
+
+
+Use full Notes
+https://www.tutorialsteacher.com/csharp/csharp-class
+https://www.geeksforgeeks.org/introduction-to-c-sharp/
+https://www.geeksforgeeks.org/c-sharp-types-of-variables/
+https://www.codeproject.com/Articles/31640/Basics-of-NET-Collections-in-C
+https://www.e-iceblue.com/download/free-products.html
+https://www.c-sharpcorner.com/UploadFile/736bf5/collection-in-C-Sharp/

@@ -1,0 +1,77 @@
+package TestRunner;
+
+import org.junit.runner.RunWith;		
+import cucumber.api.CucumberOptions;		
+import cucumber.api.junit.Cucumber;		
+
+@RunWith(Cucumber.class)				
+@CucumberOptions(features="C:\\CucumberExamples\\CucumerDemo\\Feature\\LoginVtiger.feature",
+					 glue={"StepDefination"},
+					 format = {"pretty", "html:target/cucumber","json:json/json_output/cucumber.json"},
+					 
+					 monochrome=true,
+dryrun = true
+)
+public class Runner 				
+{		
+
+}
+
+
+
+Feature: Testing Login To Vtiger Application 
+
+Scenario Outline: Checking Login Functionality of Vtiger Application
+
+Given: Open Chrome and Launch Vtiger Application
+When : Title of the Application Vtiger
+Then : Enter "<Username>" and "<Password>" in EditBox
+Then : Click on SignIn Button
+Then : Home page should display
+Then : Close the Browser
+
+Examples:
+         |Username|Password|
+	 | admin  | raghu  |
+	 | admin  | raghu  |
+	 | admin  | raghu  |
+
+		C:\Maven\apache-maven-3.6.2\bin
+
+
+
+
+
+
+
+
+cucumber.runtime.CucumberException: No backends were found. Please make sure you have a backend module on your CLASSPATH.
+	at cucumber.runtime.Runtime.<init>(Runtime.java:57)
+	at cucumber.runtime.Runtime.<init>(Runtime.java:46)
+	at cucumber.runtime.Runtime.<init>(Runtime.java:42)
+	at cucumber.api.junit.Cucumber.<init>(Cucumber.java:78)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.junit.internal.builders.AnnotatedBuilder.buildRunner(AnnotatedBuilder.java:104)
+	at org.junit.internal.builders.AnnotatedBuilder.runnerForClass(AnnotatedBuilder.java:86)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:26)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.requests.ClassRequest.getRunner(ClassRequest.java:33)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createUnfilteredTest(JUnit4TestLoader.java:84)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createTest(JUnit4TestLoader.java:70)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.loadTests(JUnit4TestLoader.java:43)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:444)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+
+
+
+
+
+
+
+

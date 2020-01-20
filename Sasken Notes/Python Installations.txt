@@ -1,0 +1,41 @@
+Set up Environment Variables
+C:\Users\raghu\AppData\Local\Programs\Python\Python37
+C:\Users\raghu\AppData\Local\Programs\Python\Python37\Scripts
+
+Step1. C:\Users\raghu>python --version
+Python 3.7.4
+
+Step 2. C:\Users\raghu>pip --version
+pip 19.2.3 from c:\users\raghu\appdata\local\programs\python\python37\lib\site-packages\pip (python 3.7)
+
+Step 3. C:\Users\raghu>robot --version
+Robot Framework 3.1.2 (Python 3.7.4 on win32)
+
+C:\Users\raghu>pip show robotframework
+
+C:\Users\raghu>pip freeze
+C:\Users\raghu>python -m pip install --upgrade pip
+
+https://sourceforge.net/projects/wxpython/files/wxPython4/extras/4.0.0a3/
+
+C:\Users\raghu>pip install robotframework-seleniumlibrary
+
+
+https://sourceforge.net/projects/wxpython/files/latest/download
+C:\Users\raghu>python(Come out from Cmd Promt Ctrl+z)
+
+>>> import sys
+>>> sys.path
+
+
+C:\Users\raghu>ride.py
+
+https://github.com/robotframework/robotframework
+C:\Users\raghu>pip install robotframework-ride
+
+pip install robotframework-ride --trusted-host pypi.org
+
+C:\Users\raghu\AppData\Local\Programs\Python\Python37
+
+https://docs.python.org/3/library/functions.html
+https://www.programiz.com/python-programming/examples/add-number

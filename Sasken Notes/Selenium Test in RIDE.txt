@@ -1,0 +1,8 @@
+Create Selenium Test in RIDE
+
+   1. How to Create a project in RIDE
+   2. How to import selenium library
+   3. How to add browser drivers
+   4. How to Create first selenium test
+
+https://github.com/robotframework/SeleniumLibrary/

@@ -1,0 +1,44 @@
+
+
+
+
+
+	https://gorest.co.in/public-api/users
+	https://parabank.parasoft.com/parabank/index.htm
+	https://gorest.co.in/rest-console.html
+	https://github.com/typicode/json-server
+	https://parabank.parasoft.com/parabank/index.htm
+	https://gorest.co.in/rest-console.html
+	https://github.com/typicode/json-server
+	https://jsonplaceholder.typicode.com/todos/1
+	https://openweathermap.org
+	http://coop.apps.symfonycasts.com/api
+
+
+
+   npm install -g json-server
+   json-server --watch db.json
+
+
+ {
+    "id": 100,
+    "title": "QA Manager",
+    "author": "RaghavendraBandi"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+Your User Id is:  487
+http://coop.apps.symfonycasts.com/application/edit/RaghuChaithu
+
+4fced37cc54d6538bed592b82fc9aa88f68ef541
+2bd756bc33a01cbd55adec0c37c2f70ca754b9d7

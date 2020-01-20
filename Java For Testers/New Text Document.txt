@@ -1,0 +1,25 @@
+
+
+    
+
+      https://www.atlassian.com/software/jira/download
+https://www.qafox.com/selenium/selenium-practice/
+https://only-testing-blog.blogspot.com/2014/01/textbox.html
+https://omayo.blogspot.com/
+http://www.seleniumframework.com/Practiceform/
+https://selenium-by-arun.blogspot.com/2017/12/using-selenium-test-automation-search.html
+https://selenium-by-arun.blogspot.com/2017/12/selecting-sing-in-option-from-my.html
+https://qatechhub.com/selenium-assignment-7/
+https://jqueryui.com/resizable/
+
+https://www.techbeamers.com/websites-to-practice-selenium-webdriver-online/#7httpss1demoopensourcecmscomwordpress
+Demo Websites to Practice Selenium Webdriver
+
+    1 List of Websites to Practice Selenium
+        1.1 1. https://phptravels.com/demo/
+        1.2 2. http://thedemosite.co.uk/
+        1.3 3. http://newtours.demoaut.com/
+        1.4 4. http://the-internet.herokuapp.com/
+        1.5 5. http://automationpractice.com/index.php
+        1.6 6. http://book.theautomatedtester.co.uk/
+        1.7 7. https://s1.demo.opensourcecms.com/wordpress/

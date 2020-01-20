@@ -1,0 +1,32 @@
+Step 0. Download Jenkins
+Step 0.1 Start Jenkins
+Step 0.2 Add robotFramework Plugin in jenkins
+Step 0.3 Create Jobs Then........Continues
+
+
+
+
+Step 1.  In Use Custom workspace
+
+    C:\Users\raghu\OneDrive\Robot\DemoProject
+
+Step 2. Execute Windows Batch Command
+	
+  	C:
+	cd C:\Users\raghu\OneDrive\Robot\DemoProject
+
+	robot -d Results -t Test3 TestSuite1.txt
+
+Step 3. Post-build Actions
+
+       \Results
+Step 4. Build Now
+
+Step 5. Configuring Content Security Policy
+
+        https://wiki.jenkins.io/display/JENKINS/Configuring+Content+Security+Policy
+
+        Copy the content from link
+           System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "")   
+        Paste in Manage Jenkins and Script Console and Run
+ 
